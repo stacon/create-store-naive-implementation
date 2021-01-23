@@ -1,0 +1,13 @@
+{
+  "name": "create-store-naive-implementation",
+  "version": "1.0.0",
+  "description": "An attempt to create basic redux implementation",
+  "main": "createStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "createStore"
+  ]
+}
